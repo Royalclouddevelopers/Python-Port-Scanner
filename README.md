@@ -13,3 +13,6 @@ pkg install python
 pkg install python2
 
 git clone https://github.com/Cyber-Knight-Official/Port-Scanner-Cyber-Knight.git
+
+cd Port-Scanner-Cyber-Knight
+
