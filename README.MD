@@ -4,7 +4,7 @@ $ Port-Scanner/This Is Easy To Use Wi-Fi IP Number Tested On Termux-Pydroid-Pyth
 
 
 
-(apt update && apt upgrade)
+apt update && apt upgrade
 
 pkg update && pkg upgrade
 
