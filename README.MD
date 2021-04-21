@@ -18,7 +18,7 @@ git clone https://github.com/Cyber-Knight-Official/Port-Scanner-Cyber-Knight.git
 
 cd Port-Scanner-Cyber-Knight
 
-python Port-Scanner-Cyber-Knight.py
+python Port-Scanner.py
 
 MY GROUP LINKS
 ----------------------------------------------------------------------------------
