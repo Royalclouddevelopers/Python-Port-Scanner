@@ -1,7 +1,6 @@
 #  ⬅️ Hacked-Template-v.0.1 ➡️ ᴠ.0.2 ᴜᴘᴅᴀᴛᴇ ꜱᴏᴏɴ 🔜
 
 ![115132748-7c50cd80-a020-11eb-88c5-5394daa664ac_macbookgrey_front](https://user-images.githubusercontent.com/82527627/140309087-774ed48b-2ed3-47b6-95b1-b5a32ed732e3.png)
-
 ### </ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ>
 
 #### Youtube = https://www.youtube.com/channel/UCZVC0okFmDdLlnH_SAJVvaA
