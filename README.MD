@@ -45,5 +45,20 @@
 
 ##### 🔖 This Project Used Langage = Python
 
+#### apt update && apt upgrade
+
+#### pkg update && pkg upgrade
+
+#### pkg install python
+
+#### pkg install python2
+
+#### git clone https://github.com/Cyber-Knight-Official/Port-Scanner-Cyber-Knight.git
+
+#### cd Port-Scanner-Cyber-Knight
+
+#### python Port-Scanner.py
+
+
                                                 </ꜱᴛᴀʏ ꜱᴀꜰᴇ 👨‍🎓>
 
