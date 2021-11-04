@@ -55,7 +55,7 @@
 
 #### 🗒 pkg install python2
 
-#### 🗒 git clone https://github.com/Cyber-Knight-Official/Port-Scanner-Cyber-Knight.git
+#### 🗒 git clone https://github.com/Cyber-Knight-Official/Python-Port-Scanner.git
 
 #### 🗒 cd Port-Scanner-Cyber-Knight
 
