@@ -41,9 +41,9 @@
 
 ### </ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ 📌>
 
-##### 🔖 Audio Auto Play Not Support In Some Browsers 
+##### 🔖 Port-Scanner Tested On Kali Linux & Termux
 
-##### 🔖 This Project Used Langage = Html5 & Css & Js
+##### 🔖 This Project Used Langage = Python
 
                                                 </ꜱᴛᴀʏ ꜱᴀꜰᴇ 👨‍🎓>
 
