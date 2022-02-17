@@ -4,10 +4,10 @@
 
 ### </ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ>
 
-#### Youtube = https://www.youtube.com/channel/UCZVC0okFmDdLlnH_SAJVvaA
+#### Youtube = </>
 
 
-#### Github = https://github.com/Cyber-Knight-Official
+#### Github = https://github.com/royalclouddevelopers
 
 
 #### Website = </>
@@ -55,7 +55,7 @@
 
 #### 🗒 pkg install python2
 
-#### 🗒 git clone https://github.com/Cyber-Knight-Official/Python-Port-Scanner.git
+#### 🗒 git clone https://github.com/royalclouddevelopers/Python-Port-Scanner.git
 
 #### 🗒 cd Port-Scanner-Cyber-Knight
 
