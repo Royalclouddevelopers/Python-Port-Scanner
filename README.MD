@@ -57,7 +57,7 @@
 
 #### 🗒 git clone https://github.com/royalclouddevelopers/Python-Port-Scanner.git
 
-#### 🗒 cd Port-Scanner-Cyber-Knight
+#### 🗒 cd Python-Port-Scanner
 
 #### 🗒 python Port-Scanner.py
 
