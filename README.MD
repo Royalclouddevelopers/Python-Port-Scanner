@@ -36,7 +36,7 @@
 
 ### </ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ 📌>
 
-##### 🔖 Port-Scanner Tested On Kali Linux & Termux
+##### 🔖 Port-Scanner Tested On Kali Linux & Termux and Windows
 
 ##### 🔖 This Project Used Langage = Python
 
